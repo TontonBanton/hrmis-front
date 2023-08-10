@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "name": "pba",
+      "email": "pba@sodaco.com",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "name": "lbm",
+      "email": "lbm@sodaco.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "cll",
+      "email": "cll@sodaco.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "sej",
+      "email": "sej@sodaco.com",
+      "password": "12345",
+      "id": 4
+    }
+  ],
+  "employee": [
+    {
+      "fname": "Juan",
+      "lname": "DelaCruz",
+      "mname": "D",
+      "id": 1
+    },
+    {
+      "fname": "John",
+      "lname": "Wick",
+      "mname": "X",
+      "id": 2
+    }
+  ]
+}
